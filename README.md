@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping_Earthquakes - this is in the Branch Simple_Leafleet_Map
 Mapping Earthquakes with JS &amp; APIs
 
 # Purpose
