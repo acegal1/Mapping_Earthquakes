@@ -48,7 +48,7 @@ let torontoData = "https://raw.githubusercontent.com/acegal1/Mapping_Earthquakes
 
 // Create a style parameters for the lines.
 let myStyle = {
-  color: "#F9E79F",
+  color: "#ffffa1",
   weight: 2
 }
 
@@ -64,3 +64,4 @@ L.geoJSON(data, {
   + feature.properties.dst + "</h3><hr><p>");
 }}).addTo(map);
 });
+
