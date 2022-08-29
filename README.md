@@ -15,7 +15,7 @@ The Dark view is the data on a third map.
  ### Deliverable 1 : The earthquake data and tectonic plate data displayed on the map when the page loads 
  
  
- ![streets view]https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/tectonic1.jpg) 
+ ![streets view](https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/tectonic1.jpg) 
 
  
  ![satellite view](https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/tectonic2.jpg)
@@ -28,17 +28,17 @@ The Dark view is the data on a third map.
   ![Major earthquake data](https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/third.jpg)
   
   
-  ![satellite_ major earthquake data](https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/fourth.jpg)
+  ![satellite_major earthquake data](https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/fourth.jpg)
   
   
   
   ### Deliverable 3: Add an Additional Map tile layer and ovelay object  Dark Map
   
   
-  ![dark view](https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/fiftha.jpg)
+  ![dark view](https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/Picture5a.jpg)
   
   
-  ![additional map](https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/final.jpg)
+  ![additional map](https://github.com/acegal1/Mapping_Earthquakes/blob/main/images/Final.jpg)
 
 
 
